@@ -1,6 +1,6 @@
-// import java.util.ArrayList;
-// import java.util.Collections;
-// import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 class Solution {
     public int rangeSum(int[] nums, int n, int left, int right) {
